@@ -1,4 +1,4 @@
-# Image animation with ffmpeg
+# Video transition with ffmpeg
 
 
 ##  What is it?
